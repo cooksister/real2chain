@@ -14,4 +14,4 @@ Reduce problem space to build feasable prototype.
 ### Statments refinement:
 Person-object linked to place at specific time. Link could be present / owns property / lives at.
 As an example proof of physical address could be used to verify statement: Contract owner live in suburb/city/state/country. This could be used in a survey contract targeting citizens of the country. 
-
+to make the problem smaller we are not going to use peer verification
